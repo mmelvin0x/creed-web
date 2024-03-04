@@ -54,12 +54,14 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src="/creed.png" alt="Creed Logo" width={100} height={24} />
             </Link>
           </div>
         </div>
 
         <div className="relative flex place-items-center">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70]"
             src="/creed.png"
