@@ -147,6 +147,61 @@ export default function Home() {
             </p>
           </Link>
         </div>
+
+        <div className="my-40 max-w-screen-lg">
+          <h1 className="text-5xl font-bold mb-8 text-center">
+            Can you take me higher?!
+          </h1>
+          <h1 className="text-2xl font-bold mb-8 text-center">
+            🎸 Get Ready to Soar with CREED: Taking You Higher on the Solami
+            Stage! 🌟{" "}
+          </h1>
+          <p className="">
+            Hey there, fellow Solami enthusiasts! It&apos;s your lead singer,
+            ready to hit you with some electrifying news that&apos;ll have you
+            rocking and rolling like never before! You know us for our
+            chart-topping hits and unforgettable performances, but guess what?
+          </p>
+
+          <p className="">
+            We&apos;re about to take things to a whole new level with our latest
+            creation: CREED! Now, imagine this: just like our lyrics, this token
+            is designed to TAKE YOU HIGHER!
+          </p>
+
+          <p className="">
+            We&apos;ve infused every line of code with the same passion and
+            intensity that we pour into our anthems, ensuring that CREED
+            isn&apos;t just another token; it&apos;s a masterpiece in the
+            making. With every transaction, you&apos;ll feel the rhythm
+            pulsating through your veins, propelling you towards new heights of
+            success. But hold onto your drumsticks, because we&apos;re just
+            getting started! When we say Solami, we mean blazing-fast
+            transactions that&apos;ll leave your head spinning faster than our
+            guitar solos. And the best part? Low fees that won&apos;t break the
+            bank, so you can rock out without worrying about hidden costs. With
+            CREED, the sky&apos;s the limit, and we&apos;re ready to take you on
+            the ride of a lifetime!
+          </p>
+
+          <p className="">
+            Now, let&apos;s talk about community, shall we? Because when you
+            join the CREED family, you&apos;re not just a token holder;
+            you&apos;re part of a tribe of dedicated fans who share our love for
+            music, technology, and all things Solami. From exclusive events to
+            backstage access and beyond, being part of CREED means being part of
+            something truly special.
+          </p>
+
+          <p className="">
+            So, what are you waiting for? Don&apos;t let this opportunity pass
+            you by like a fleeting riff in the night. Grab your CREED tokens
+            today and join us on this epic journey as we rock the Solami
+            blockchain like never before. Together, let&apos;s turn up the
+            volume, raise our lighters, and make history one electrifying chord
+            at a time! 🎶
+          </p>
+        </div>
       </main>
     </>
   );
