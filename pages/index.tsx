@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 import { Inter } from "next/font/google";
 import Link from "next/link";
 
@@ -55,25 +54,18 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Image
-                src="/creed.png"
-                alt="Creed Logo"
-                width={100}
-                height={24}
-                priority
-              />
+              <img src="/creed.png" alt="Creed Logo" width={100} height={24} />
             </Link>
           </div>
         </div>
 
         <div className="relative flex place-items-center">
-          <Image
+          <img
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70]"
             src="/creed.png"
             alt="Creed Logo"
             width={375}
             height={375}
-            priority
           />
         </div>
 
