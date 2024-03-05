@@ -142,6 +142,13 @@ export default function Home() {
           </Link>
         </div>
 
+        <div className="my-20 grid grid-cols-2">
+          <div>Supply: 1,000,000,000</div>
+          <div>Team: 50,000,000 CREED</div>
+          <div>Operations: 100,000,000 CREED</div>
+          <div>Initial Liquidity: 850,000,000 CREED</div>
+        </div>
+
         <div className="my-40 max-w-screen-lg">
           <h1 className="text-5xl font-bold mb-8 text-center">
             Can you take me higher?!
